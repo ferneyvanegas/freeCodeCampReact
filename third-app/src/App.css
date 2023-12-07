@@ -1,0 +1,24 @@
+.App{
+    height: 100vh;
+    padding-top: 10px;
+    background-color: blueviolet;
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.calc-container{
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+.row {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
